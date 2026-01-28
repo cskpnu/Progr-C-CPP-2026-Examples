@@ -255,5 +255,5 @@ int main() {
 Всі тести пройдено успішно.
 
 **Скріншот результату (Accepted):**
-![Скріншот з e-olymp](path/to/your/screenshot.png)
+![Скріншот з e-olymp](../T01/eolympLab0106.png)
 
