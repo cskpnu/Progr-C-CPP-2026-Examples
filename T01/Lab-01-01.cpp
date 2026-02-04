@@ -17,7 +17,7 @@ int main() {
 
     cout << fixed << setprecision(3); // Налаштування: 3 знаки після коми
     cout << "Arithmetic mean: " << arithmetic_mean << endl;
-    cout << "Geometric mean:  " << geometric_mean << endl;
+    cout << "Geometric mean: " << geometric_mean << endl;
 
     return 0;
 }
