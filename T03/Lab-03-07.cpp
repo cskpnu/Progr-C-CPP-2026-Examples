@@ -14,5 +14,6 @@ int main() {
         }
         cout << "Сума рядка " << i << ": " << rowSum << endl;
     }
+
     return 0;
 }
