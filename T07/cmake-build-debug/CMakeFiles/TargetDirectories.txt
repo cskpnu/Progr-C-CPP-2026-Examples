@@ -1,0 +1,3 @@
+C:/Ivaniuk/Projects/Edu/Progr-C-CPP-2026/Progr-C-CPP-2026-Examples/T07/cmake-build-debug/CMakeFiles/Lab_Catalog_Bank07.dir
+C:/Ivaniuk/Projects/Edu/Progr-C-CPP-2026/Progr-C-CPP-2026-Examples/T07/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ivaniuk/Projects/Edu/Progr-C-CPP-2026/Progr-C-CPP-2026-Examples/T07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
